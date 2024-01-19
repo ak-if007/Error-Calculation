@@ -11,10 +11,10 @@ Such discrepencies are dealt with in this script. To tackle the first problem wh
 
 
 <p align="center">
-  <img src="assets/Segment1.jpg" width="100" style="margin-right: 10px;" />
-  <img src="assets/Segment2.jpg" width="100" />
+  <img src="assets/Segment1.jpg" width="300" style="margin-right: 10px;" />
+  <img src="assets/Segment2.jpg" width="300" />
 </p>
 <p align="center">
-  <img src="assets/Segment3.jpg" width="100" style="margin-right: 10px;" />
-  <img src="assets/Segment4.jpg" width="100" />
+  <img src="assets/Segment3.jpg" width="300" style="margin-right: 10px;" />
+  <img src="assets/Segment4.jpg" width="300" />
 </p>
